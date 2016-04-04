@@ -5,6 +5,8 @@ Git creates a new git file. Don't need to do any thing.
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+let's make some change of the file
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
